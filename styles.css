@@ -16,9 +16,6 @@
     width: 100%;
 }
 
-@media screen and (min-width: 428px){
-   
-}
 
 .second-header{
     display: flex;
@@ -34,7 +31,6 @@ font-weight: 600;
 line-height: 24px; /* 120% */
 letter-spacing: -0.6px;
 text-transform: uppercase;
-width: 283px;
 }
 
 .section-two-title{
@@ -210,12 +206,4 @@ border: white;
     background: white;
     border: solid 1px var(--orange);
     color: var(--darkblue);
-}
-
-@media screen and (min-width: 768px){
-   
-    
-
-
-
 }
