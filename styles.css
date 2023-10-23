@@ -80,6 +80,7 @@ letter-spacing: -0.28px;
     align-items: center;
     justify-content: center;
     cursor: pointer;
+    transition: ease-in-out;
 }
 
 .ingredients-heading-paragraph{
