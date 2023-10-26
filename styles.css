@@ -204,7 +204,7 @@ margin-bottom: 8px;
 
 
 .content-figcap-paragraph{
-    overflow:hidden;
+    
 color: #111;
 text-overflow: ellipsis;
 white-space: nowrap;
@@ -255,6 +255,8 @@ border: white;
     
            
         }
+
+       
 
     .first-row{
         display: flex;
