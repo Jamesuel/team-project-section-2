@@ -175,7 +175,7 @@ margin-top: 36px;
     background: white;
     display: flex;
     justify-content: center;
-    align-items: left;
+    align-items: flex-start;
     flex-direction: column;
     opacity: 0;
     transition: 0.4s;
